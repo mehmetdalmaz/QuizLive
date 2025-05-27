@@ -1,0 +1,17 @@
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/bin/Debug/net9.0/QuizLive.DataAccess.deps.json
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/bin/Debug/net9.0/QuizLive.DataAccess.runtimeconfig.json
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/bin/Debug/net9.0/QuizLive.DataAccess.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/bin/Debug/net9.0/QuizLive.DataAccess.pdb
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/bin/Debug/net9.0/QuizLive.Entitiy.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/bin/Debug/net9.0/QuizLive.Entitiy.pdb
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.csproj.AssemblyReference.cache
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.AssemblyInfoInputs.cache
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.AssemblyInfo.cs
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.csproj.CoreCompileInputs.cache
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.D37AC6E7.Up2Date
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/refint/QuizLive.DataAccess.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.pdb
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/QuizLive.DataAccess.genruntimeconfig.cache
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/Debug/net9.0/ref/QuizLive.DataAccess.dll

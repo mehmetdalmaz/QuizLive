@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj": {}
+  },
+  "projects": {
+    "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj",
+        "projectName": "QuizLive.DataAccess",
+        "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj",
+        "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
+        "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
+                "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
+        "projectName": "QuizLive.Entitiy",
+        "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
+        "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
+        "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
