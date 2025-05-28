@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BLk9wjsmqmEK0Z1l7YwFsEft87InIuAcVX62dAi0pds=",
+  "Source": "QuizLive.WebApi",
+  "BasePath": "_content/QuizLive.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

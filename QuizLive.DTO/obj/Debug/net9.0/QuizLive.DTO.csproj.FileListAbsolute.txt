@@ -1,0 +1,12 @@
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/bin/Debug/net9.0/QuizLive.DTO.deps.json
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/bin/Debug/net9.0/QuizLive.DTO.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/bin/Debug/net9.0/QuizLive.DTO.pdb
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.AssemblyInfoInputs.cache
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.AssemblyInfo.cs
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.csproj.CoreCompileInputs.cache
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.sourcelink.json
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/refint/QuizLive.DTO.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.pdb
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/ref/QuizLive.DTO.dll

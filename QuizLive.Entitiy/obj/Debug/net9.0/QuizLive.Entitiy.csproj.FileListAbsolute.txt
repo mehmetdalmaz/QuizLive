@@ -10,3 +10,4 @@
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/refint/QuizLive.Entitiy.dll
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.pdb
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/ref/QuizLive.Entitiy.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.sourcelink.json
