@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuizLive.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+044c26dca9d2a9ccde1fbfb3bea70405a0e81bc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82db6c99973b97a04b21c455adf781aca376683")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuizLive.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuizLive.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

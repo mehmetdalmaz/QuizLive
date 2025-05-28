@@ -5,6 +5,8 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using QuizLive.DataAccess.Context;
 using QuizLive.Entitiy.Concrete;
+using QuizLive.WebApi;
+using QuizLive.WebApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -77,6 +79,11 @@ builder.Services.AddSwaggerGen(c =>
 
 
 var app = builder.Build();
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    await DataSeeder.SeedAdminUserAsync(services);
+}
 
 if (app.Environment.IsDevelopment())
 {
