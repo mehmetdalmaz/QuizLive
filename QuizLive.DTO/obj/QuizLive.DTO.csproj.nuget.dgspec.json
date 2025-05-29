@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj": {}
+    "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj": {}
   },
   "projects": {
-    "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj": {
+    "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj",
+        "projectUniqueName": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj",
         "projectName": "QuizLive.DTO",
-        "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj",
+        "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj",
         "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
-        "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/",
+        "outputPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
-                "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj"
+              "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
+                "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
+    "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
+        "projectUniqueName": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
         "projectName": "QuizLive.Entitiy",
-        "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
+        "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
         "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
-        "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/",
+        "outputPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"

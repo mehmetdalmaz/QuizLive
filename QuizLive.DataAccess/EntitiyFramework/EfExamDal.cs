@@ -46,6 +46,7 @@ namespace QuizLive.DataAccess.EntitiyFramework
         {
             return await _context.Questions
                 .Where(q => q.ExamId == examId)
+                .Include(q => q.Options)
                 .ToListAsync();
         }
     }

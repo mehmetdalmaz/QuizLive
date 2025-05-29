@@ -9,6 +9,7 @@
       "QuizLive.BussinesLayer/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.5",
+          "QuizLive.DTO": "1.0.0",
           "QuizLive.DataAccess": "1.0.0"
         },
         "runtime": {
@@ -658,6 +659,17 @@
           }
         }
       },
+      "QuizLive.DTO/1.0.0": {
+        "dependencies": {
+          "QuizLive.Entitiy": "1.0.0"
+        },
+        "runtime": {
+          "QuizLive.DTO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "QuizLive.Entitiy/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.5",
@@ -1099,6 +1111,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "QuizLive.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizLive.DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

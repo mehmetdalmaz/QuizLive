@@ -798,11 +798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
+      "projectUniqueName": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
       "projectName": "QuizLive.Entitiy",
-      "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
+      "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj",
       "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
-      "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/",
+      "outputPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"

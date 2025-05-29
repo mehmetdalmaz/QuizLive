@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\QuizLive.DataAccess\QuizLive.DataAccess.csproj" />
+      <ProjectReference Include="..\QuizLive.DTO\QuizLive.DTO.csproj" />
     </ItemGroup>
 
     <ItemGroup>

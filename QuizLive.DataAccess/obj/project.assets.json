@@ -4910,11 +4910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj",
+      "projectUniqueName": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj",
       "projectName": "QuizLive.DataAccess",
-      "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj",
+      "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj",
       "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
-      "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/obj/",
+      "outputPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"
@@ -4929,8 +4929,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
-              "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj"
+            "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
+              "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj"
             }
           }
         }

@@ -11,3 +11,16 @@
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.pdb
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/ref/QuizLive.Entitiy.dll
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.sourcelink.json
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/bin/Debug/net9.0/QuizLive.Entitiy.deps.json
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/bin/Debug/net9.0/QuizLive.Entitiy.dll
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/bin/Debug/net9.0/QuizLive.Entitiy.pdb
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.csproj.AssemblyReference.cache
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.AssemblyInfoInputs.cache
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.AssemblyInfo.cs
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.csproj.CoreCompileInputs.cache
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.sourcelink.json
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.dll
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/refint/QuizLive.Entitiy.dll
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/QuizLive.Entitiy.pdb
+/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.Entitiy/obj/Debug/net9.0/ref/QuizLive.Entitiy.dll

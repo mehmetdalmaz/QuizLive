@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AWrI2GU+YwM=",
+  "dgSpecHash": "ZQw+5j+t8MM=",
   "success": true,
-  "projectFilePath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.WebApi/QuizLive.WebApi.csproj",
+  "projectFilePath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.WebApi/QuizLive.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/mehmetdalmaz/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/mehmetdalmaz/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",

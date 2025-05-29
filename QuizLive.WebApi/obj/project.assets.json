@@ -1767,6 +1767,7 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.5",
+          "QuizLive.DTO": "1.0.0",
           "QuizLive.DataAccess": "1.0.0"
         },
         "compile": {
@@ -5145,11 +5146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.WebApi/QuizLive.WebApi.csproj",
+      "projectUniqueName": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.WebApi/QuizLive.WebApi.csproj",
       "projectName": "QuizLive.WebApi",
-      "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.WebApi/QuizLive.WebApi.csproj",
+      "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.WebApi/QuizLive.WebApi.csproj",
       "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
-      "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.WebApi/obj/",
+      "outputPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"
@@ -5164,11 +5165,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj": {
-              "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj"
+            "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj": {
+              "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj"
             },
-            "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj": {
-              "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj"
+            "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj": {
+              "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj"
             }
           }
         }

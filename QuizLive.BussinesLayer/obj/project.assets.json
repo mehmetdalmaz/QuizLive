@@ -1086,6 +1086,19 @@
           "bin/placeholder/QuizLive.DataAccess.dll": {}
         }
       },
+      "QuizLive.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "QuizLive.Entitiy": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuizLive.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizLive.DTO.dll": {}
+        }
+      },
       "QuizLive.Entitiy/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2946,6 +2959,11 @@
       "path": "../QuizLive.DataAccess/QuizLive.DataAccess.csproj",
       "msbuildProject": "../QuizLive.DataAccess/QuizLive.DataAccess.csproj"
     },
+    "QuizLive.DTO/1.0.0": {
+      "type": "project",
+      "path": "../QuizLive.DTO/QuizLive.DTO.csproj",
+      "msbuildProject": "../QuizLive.DTO/QuizLive.DTO.csproj"
+    },
     "QuizLive.Entitiy/1.0.0": {
       "type": "project",
       "path": "../QuizLive.Entitiy/QuizLive.Entitiy.csproj",
@@ -2955,6 +2973,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.5",
+      "QuizLive.DTO >= 1.0.0",
       "QuizLive.DataAccess >= 1.0.0"
     ]
   },
@@ -2964,11 +2983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj",
+      "projectUniqueName": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj",
       "projectName": "QuizLive.BussinesLayer",
-      "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj",
+      "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj",
       "packagesPath": "/Users/mehmetdalmaz/.nuget/packages/",
-      "outputPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.BussinesLayer/obj/",
+      "outputPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.BussinesLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mehmetdalmaz/.nuget/NuGet/NuGet.Config"
@@ -2983,8 +3002,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj": {
-              "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj"
+            "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj": {
+              "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DataAccess/QuizLive.DataAccess.csproj"
+            },
+            "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj": {
+              "projectPath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.DTO/QuizLive.DTO.csproj"
             }
           }
         }

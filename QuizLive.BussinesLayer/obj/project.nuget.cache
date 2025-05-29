@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGR825p+APs=",
+  "dgSpecHash": "M/pCG4/ANpY=",
   "success": true,
-  "projectFilePath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj",
+  "projectFilePath": "/Users/mehmetdalmaz/Desktop/QuizLive/QuizLive.BussinesLayer/QuizLive.BussinesLayer.csproj",
   "expectedPackageFiles": [
     "/Users/mehmetdalmaz/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/mehmetdalmaz/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
