@@ -1,9 +1,13 @@
+using System.Reflection;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using QuizLive.BussinesLayer.Services;
+using QuizLive.DataAccess.Abstract;
 using QuizLive.DataAccess.Context;
+using QuizLive.DataAccess.EntitiyFramework;
 using QuizLive.Entitiy.Concrete;
 using QuizLive.WebApi;
 using QuizLive.WebApi.Models;
@@ -14,6 +18,18 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<QuizLiveContext>();
+
+builder.Services.AddScoped<ICourseService, CourseManager>();
+builder.Services.AddScoped<ICourseDal, EfCourseDal>();
+
+builder.Services.AddScoped<IExamService, ExamManager>();
+builder.Services.AddScoped<IExamDal, EfExamDal>();
+
+builder.Services.AddScoped<IQuestionService, QuestionManager>();
+builder.Services.AddScoped<IQuestionDal, EfQuestion>();
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
+
 
 
 

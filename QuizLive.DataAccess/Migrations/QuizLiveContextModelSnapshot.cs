@@ -277,11 +277,7 @@ namespace QuizLive.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("AppUserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("AppUserId1")
+                    b.Property<int>("AppUserId")
                         .HasColumnType("int");
 
                     b.Property<DateTime?>("EndTime")
@@ -298,7 +294,7 @@ namespace QuizLive.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AppUserId1");
+                    b.HasIndex("AppUserId");
 
                     b.HasIndex("ExamId");
 
@@ -453,7 +449,7 @@ namespace QuizLive.DataAccess.Migrations
                 {
                     b.HasOne("QuizLive.Entitiy.Concrete.AppUser", "AppUser")
                         .WithMany("ExamResults")
-                        .HasForeignKey("AppUserId1")
+                        .HasForeignKey("AppUserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

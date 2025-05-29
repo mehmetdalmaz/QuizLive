@@ -4,6 +4,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -29,6 +30,42 @@ namespace QuizLive.WebApi.Controllers
             _roleManager = roleManager;
             _configuration = configuration;
         }
+
+        [Authorize]
+        [HttpGet("Profile")]
+        public async Task<IActionResult> Profile()
+        {
+            var userId = User.Claims.FirstOrDefault(c => c.Type == "id")?.Value;
+            if (userId == null)
+                return Unauthorized("Kullanıcı bulunamadı.");
+
+            var user = await _userManager.FindByIdAsync(userId);
+            if (user == null)
+                return NotFound("Kullanıcı bulunamadı.");
+
+            return Ok(new
+            {
+                user.Id,
+                user.UserName,
+                user.Email,
+                user.FullName
+            });
+        }
+        [Authorize(Roles = "Admin")]
+        [HttpGet("Users")]
+        public IActionResult GetAllUsers()
+        {
+            var users = _userManager.Users.Select(user => new
+            {
+                user.Id,
+                user.UserName,
+                user.Email,
+                user.FullName
+            }).ToList();
+
+            return Ok(users);
+        }
+
 
         [HttpPost("Register")]
         public async Task<IActionResult> Register([FromBody] RegisterDto model)
@@ -90,7 +127,6 @@ namespace QuizLive.WebApi.Controllers
         new System.Security.Claims.Claim("email", user.Email!)
     };
 
-            // Roller claim olarak ekleniyor
             claims.AddRange(roles.Select(role => new System.Security.Claims.Claim("roles", role)));
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]!));

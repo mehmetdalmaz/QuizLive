@@ -179,7 +179,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj": {
+                "projectPath": "/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.Entitiy/QuizLive.Entitiy.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

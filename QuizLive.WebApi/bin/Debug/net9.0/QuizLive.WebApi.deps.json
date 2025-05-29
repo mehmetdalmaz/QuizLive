@@ -1152,6 +1152,9 @@
         }
       },
       "QuizLive.DTO/1.0.0": {
+        "dependencies": {
+          "QuizLive.Entitiy": "1.0.0"
+        },
         "runtime": {
           "QuizLive.DTO.dll": {
             "assemblyVersion": "1.0.0.0",

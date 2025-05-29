@@ -10,3 +10,7 @@
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/refint/QuizLive.DTO.dll
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.pdb
 /Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/ref/QuizLive.DTO.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/bin/Debug/net9.0/QuizLive.Entitiy.dll
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/bin/Debug/net9.0/QuizLive.Entitiy.pdb
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.DTO.csproj.AssemblyReference.cache
+/Users/mehmetdalmaz/RiderProjects/QuizLive/QuizLive.DTO/obj/Debug/net9.0/QuizLive.39C24384.Up2Date
