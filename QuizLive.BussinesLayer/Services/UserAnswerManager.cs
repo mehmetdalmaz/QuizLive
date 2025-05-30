@@ -15,6 +15,12 @@ namespace QuizLive.BussinesLayer.Services
             _UserAnswerDal = UserAnswerDal;
             
         }
+
+        public Task<List<UserAnswer>> GetUserAnswersWithQuestionAndSelectedOptionAsync(int examResultId)
+        {
+            return _UserAnswerDal.GetUserAnswersWithQuestionAndSelectedOptionAsync(examResultId);
+        }
+
         public async Task TAddAsync(UserAnswer entity)
         {
            await _UserAnswerDal.AddAsync(entity);

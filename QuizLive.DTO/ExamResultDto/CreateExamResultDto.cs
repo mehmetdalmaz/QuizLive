@@ -7,7 +7,7 @@ namespace QuizLive.DTO.ExamResultDto
 {
     public class CreateExamResultDto
     {
-        public string AppUserId { get; set; }
+        public int AppUserId { get; set; }
         public int ExamId { get; set; }
         public DateTime StartTime { get; set; } = DateTime.UtcNow;
 

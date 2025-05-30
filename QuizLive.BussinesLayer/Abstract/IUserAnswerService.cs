@@ -6,8 +6,9 @@ using QuizLive.Entitiy.Concrete;
 
 namespace QuizLive.DataAccess.Abstract
 {
-    public interface IUserAnswerService: IGenericService<UserAnswer>
+    public interface IUserAnswerService : IGenericService<UserAnswer>
     {
-        
+        Task<List<UserAnswer>> GetUserAnswersWithQuestionAndSelectedOptionAsync(int examResultId);
+
     }
 }

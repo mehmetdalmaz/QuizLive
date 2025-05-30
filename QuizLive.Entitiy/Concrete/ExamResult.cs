@@ -15,5 +15,5 @@ public class ExamResult
 
     public int Score { get; set; }
 
-    public ICollection<UserAnswer> UserAnswers { get; set; }
+    public ICollection<UserAnswer> UserAnswers { get; set; } = new List<UserAnswer>();
 }

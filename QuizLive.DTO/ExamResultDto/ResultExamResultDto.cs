@@ -9,7 +9,7 @@ namespace QuizLive.DTO.ExamResultDto
     {
         public int Id { get; set; }
 
-        public string AppUserName { get; set; } // AppUser'dan alınır
+        public string AppUserName { get; set; }
         public int ExamId { get; set; }
         public string ExamTitle { get; set; }
 

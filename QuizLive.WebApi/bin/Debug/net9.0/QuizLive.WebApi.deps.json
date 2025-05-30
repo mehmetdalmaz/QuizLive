@@ -1128,6 +1128,7 @@
       },
       "QuizLive.BussinesLayer/1.0.0": {
         "dependencies": {
+          "AutoMapper": "14.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.5",
           "QuizLive.DTO": "1.0.0",
           "QuizLive.DataAccess": "1.0.0"

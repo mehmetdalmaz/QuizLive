@@ -6,8 +6,11 @@ using QuizLive.Entitiy.Concrete;
 
 namespace QuizLive.DataAccess.Abstract
 {
-    public interface IUserAnswerDal: IGenericDal<UserAnswer>
+    public interface IUserAnswerDal : IGenericDal<UserAnswer>
     {
-        
+        Task<List<UserAnswer>> GetAnswersByExamResultIdAsync(int examResultId);
+        Task<List<UserAnswer>> GetUserAnswersWithQuestionAndSelectedOptionAsync(int examResultId);
+
+
     }
 }

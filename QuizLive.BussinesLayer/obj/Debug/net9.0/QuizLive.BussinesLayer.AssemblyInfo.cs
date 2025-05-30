@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuizLive.BussinesLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+548d5aea6b988b5e26d2e65ea693b1a11296f0f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b0a6063f10595e4f976ba010906ed18a8d48873")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuizLive.BussinesLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuizLive.BussinesLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

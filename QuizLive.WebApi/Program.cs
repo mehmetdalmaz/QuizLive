@@ -27,6 +27,13 @@ builder.Services.AddScoped<IExamDal, EfExamDal>();
 
 builder.Services.AddScoped<IQuestionService, QuestionManager>();
 builder.Services.AddScoped<IQuestionDal, EfQuestion>();
+
+builder.Services.AddScoped<IUserAnswerService, UserAnswerManager>();
+builder.Services.AddScoped<IUserAnswerDal, EfUserAnswerDal>();
+
+builder.Services.AddScoped<IExamResultService, ExamResultManager>();
+builder.Services.AddScoped<IExamResultDal, EfExamResultDal>();
+
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 
